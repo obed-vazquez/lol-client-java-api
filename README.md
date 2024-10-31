@@ -77,9 +77,9 @@ Snapshots of all the latest changes are available in my personal nexus repositor
 ```xml
 <!-- https://github.com/stirante/lol-client-java-api -->
 <dependency>
-    <groupId>com.stirante</groupId>
+    <groupId>com.github.obed-vazquez</groupId>
     <artifactId>lol-client-java-api</artifactId>
-    <version>1.2.12-SNAPSHOT</version>
+    <version>1.2.12</version>
 </dependency>
 ```
 
